@@ -1,5 +1,5 @@
 <h1 align="center">
-   Department Managemet System</h1>
+   School Managemet System</h1>
 
 <h3 align="center">
 Streamline school management, class organization, and add students and faculty.<br>
